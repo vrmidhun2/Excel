@@ -1,0 +1,1 @@
+This dashboard include 2 KPI cards. top 3 customers and total sales.it also has 2 slicers.it contains pivots charts such as doughnut chart,line chart and map chart.It summarizes the sales distribution in to excel dashboard.
